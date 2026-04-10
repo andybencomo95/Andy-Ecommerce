@@ -20,9 +20,9 @@ const Home = () => {
           {
             id: 'demo-1',
             name: 'Producto Demo 1',
-            description: 'Este es un producto de demostración',
+            description: 'Auriculares inalámbricos con sonido premium',
             price: 29.99,
-            image: 'https://via.placeholder.com/280x200?text=Producto+1',
+            image: 'https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400&h=300&fit=crop',
             category: 'Electrónica',
             stock: 10,
             createdAt: new Date().toISOString()
@@ -30,9 +30,9 @@ const Home = () => {
           {
             id: 'demo-2',
             name: 'Producto Demo 2',
-            description: 'Otro producto de demostración',
+            description: 'Camiseta clásica de algodón orgánico',
             price: 49.99,
-            image: 'https://via.placeholder.com/280x200?text=Producto+2',
+            image: 'https://images.unsplash.com/photo-1529374255404-311a2a4f1c9d?w=400&h=300&fit=crop',
             category: 'Ropa',
             stock: 5,
             createdAt: new Date().toISOString()
@@ -40,9 +40,9 @@ const Home = () => {
           {
             id: 'demo-3',
             name: 'Producto Demo 3',
-            description: 'Tercer producto de demostración',
+            description: 'Gorra deportiva adjustable',
             price: 19.99,
-            image: 'https://via.placeholder.com/280x200?text=Producto+3',
+            image: 'https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=400&h=300&fit=crop',
             category: 'Accesorios',
             stock: 20,
             createdAt: new Date().toISOString()
