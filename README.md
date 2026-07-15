@@ -57,3 +57,4 @@ Plataforma de comercio electrónico fullstack desarrollada con un enfoque en la 
 
 Andy Bencomo
 Desarrollador Fullstack en formación | Estudiante de Ingeniería de Software
+https://www.linkedin.com/in/andy-bencomo-608741287/
